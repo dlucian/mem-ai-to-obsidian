@@ -2,7 +2,7 @@
 
 JSON Notes conversion tool from Mem.AI JSON format to Obsidian-friendly .md files. 
 
-Features:
+## Features
 
 - creates .md files for each entry in the JSON
 - extracts `tags` from the second line of each entry into frontmatter
@@ -13,6 +13,12 @@ Features:
 - downloads any embedded images into a local folder and updates the Markdown links
 - fixes image extensions (they have a hash added)
 
-# License
+## Contributing
+
+I'm open to improving it. 
+
+Fork and send a PR and I will review it.
+
+## License
 
 See the [LICENSE](./LICENSE) file.
